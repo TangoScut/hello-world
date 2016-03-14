@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+i am tango from scut;
+glad to be in github!
